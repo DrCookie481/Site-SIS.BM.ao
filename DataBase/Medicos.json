@@ -1,0 +1,26 @@
+{
+    "Medica": {
+        "Senha": "123",
+        "Especialidade": "Pediatra",
+        "Telefone": "994841633",
+        "Email": "emukokokasesi@gmail.com"
+    },
+    "Medico": {
+        "Senha": "123",
+        "Especialidade": "Cardiologista",
+        "Telefone": "123456789",
+        "Email": "n\u00e7oiband w@gmail.com"
+    },
+    "Medico 1": {
+        "Senha": "123",
+        "Especialidade": "None",
+        "Telefone": "",
+        "Email": ""
+    },
+    "SiIlva": {
+        "Senha": "123",
+        "Especialidade": "Pediatra",
+        "Telefone": "123",
+        "Email": "1t6271t@gmail.com"
+    }
+}
