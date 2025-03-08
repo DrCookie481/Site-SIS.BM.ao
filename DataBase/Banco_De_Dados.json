@@ -5,10 +5,13 @@
         "Morada": "Luanda",
         "Localidade": "Projecto Nova Vida",
         "Codigo_Postal": "123",
-        "Numero": "123456789",
-        "Email_Seguradora": "481elias@gmail.com",
+        "Numero": "1234",
+        "Email_Seguradora": "481elias@gmail.co.ao",
         "Numero_Resp": "987654321",
         "Biografia": "Tentando Terminar o Projecto",
+        "Genero": "Masculino",
+        "Grupo_Sanguineo": "AB+",
+        "Alergias": "Masculino",
         "Conta": true
     },
     "Elias481": {
@@ -20,7 +23,25 @@
         "Numero": "123456789",
         "Email_Seguradora": "481elias@gmail.com",
         "Numero_Resp": "987654321",
+        "Genero": "Masculino",
+        "Grupo_Sanguineo": "AB+",
+        "Alergias": "Carne",
         "Biografia": "Tentando Terminar o Projecto",
         "Conta": false
+    },
+    "Emanuel": {
+        "Senha": "321",
+        "Data_Nascimento": "2008-01-28",
+        "Morada": "Luanda",
+        "Localidade": "Luanda",
+        "Codigo_Postal": "321",
+        "Numero": "923u1",
+        "Email_Seguradora": "test@hotmail.com",
+        "Numero_Resp": "3213",
+        "Biografia": "213131",
+        "Genero": "Masculino",
+        "Grupo_Sanguineo": "C\u00e3o",
+        "Alergias": "Masculino",
+        "Conta": true
     }
 }
